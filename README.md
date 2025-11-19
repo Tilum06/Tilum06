@@ -9,8 +9,13 @@ I'm a Computer Engineering student at HCMUT.
 - **Tools:** Git, GitHub, VS Code  
 - **Documentation:** LaTeX, technical reporting
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tilum06&show_icons=true)
 
 
 <!--
