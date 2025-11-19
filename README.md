@@ -1,14 +1,16 @@
-# Hi, I'm Vinh 👋
+## Hi, I'm Vinh 👋
 I'm a Computer Engineering student at HCMUT.  
-Technical focus: C++, Verilog HDL 
 
 ## Skills
 - **Programming:** C++, Python, R  
-- **Hardware & Electronics:** PSpice (OrCAD), circuit analysis, BJT/JFET biasing, rectifier design  
+- **Hardware & Electronics:** PSpice, circuit analysis, BJT/JFET biasing, rectifier design  
 - **PCB Design:** Altium Designer (schematic capture, PCB layout, DRC checking)  
 - **HDL & Digital Design:** Verilog (RTL design, testbench, simulation)  
-- **Tools:** Git, GitHub, VS Code, Linux  
+- **Tools:** Git, GitHub, VS Code  
 - **Documentation:** LaTeX, technical reporting
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true)
 
 
 <!--
