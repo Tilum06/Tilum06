@@ -11,14 +11,16 @@ I'm a Computer Engineering student at HCMUT.
 - **Tools:** Git, GitHub, VS Code  
 - **Documentation:** LaTeX, technical reporting
 
----
 
-## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice-CC0000?style=flat&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-000000?style=flat&logo=altiumdesigner&logoColor=white)
 
 ---
 
